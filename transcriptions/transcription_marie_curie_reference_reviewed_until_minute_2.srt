@@ -1,0 +1,412 @@
+1
+00:00:00,000 --> 00:00:06,000
+Ninguna científico ha gozado de tanta popularidad mundial.
+
+2
+00:00:07,000 --> 00:00:11,000
+Fue la primera en investigar el fenómeno de la radiactividad
+
+3
+00:00:11,000 --> 00:00:15,000
+y descubrió elementos radiactivos desconocidos para la ciencia.
+
+4
+00:00:15,000 --> 00:00:18,000
+Fue la primera mujer que se doctoró en la Sorbona.
+
+5
+00:00:18,000 --> 00:00:21,000
+La primera mujer que obtuvo el premio Nobel
+
+6
+00:00:21,000 --> 00:00:26,000
+y la única que recibió el prestigioso galardón dos veces.
+
+7
+00:00:26,000 --> 00:00:30,000
+Su nombre era María Sklodowska-Curie.
+
+8
+00:00:35,000 --> 00:00:38,000
+Nació en Varsovia en el año 1867
+
+9
+00:00:38,000 --> 00:00:41,000
+en el seno de una familia dedicada a la enseñanza.
+
+10
+00:00:41,000 --> 00:00:46,000
+Los Sklodowsky intentaron inculcar a sus cinco hijos el amor por el conocimiento.
+
+11
+00:00:46,000 --> 00:00:50,000
+Las ciencias exactas eran especialmente valoradas en esa casa.
+
+12
+00:00:50,000 --> 00:00:55,000
+A los 16 años, María dejó el instituto graduándose con matrícula de honor.
+
+13
+00:00:55,000 --> 00:00:59,000
+En Polonia, que en aquel entonces formaba parte del imperio ruso,
+
+14
+00:00:59,000 --> 00:01:02,000
+no había instituciones donde las mujeres pudiesen seguir estudiando
+
+15
+00:01:02,000 --> 00:01:06,000
+y su familia no tenía dinero para enviar a sus hijas a estudiar al extranjero.
+
+16
+00:01:06,000 --> 00:01:11,000
+Entonces, Marie propuso que su hermana mayor debería ir a estudiar a París
+
+17
+00:01:11,000 --> 00:01:13,000
+y dijo que ella le costearía los estudios
+
+18
+00:01:13,000 --> 00:01:17,000
+trabajando como institutriz en casa de un terrateniente.
+
+19
+00:01:17,000 --> 00:01:20,000
+Ocho años más tarde, Marie había ahorrado el dinero suficiente
+
+20
+00:01:20,000 --> 00:01:25,000
+para poder ir ella misma a estudiar a París a la Universidad de la Sorbona.
+
+21
+00:01:25,000 --> 00:01:29,000
+Vivió en una pequeña buhardilla donde hacía un calor insoportable en verano
+
+22
+00:01:29,000 --> 00:01:33,000
+y tanto frío en invierno que el agua se helaba en el lavabo.
+
+23
+00:01:33,000 --> 00:01:35,000
+Marie subsistía a base de pan y té,
+
+24
+00:01:35,000 --> 00:01:38,000
+pero había conseguido estudiar en la famosa universidad
+
+25
+00:01:38,000 --> 00:01:42,000
+y se hizo el propósito de dedicar su vida a la ciencia.
+
+26
+00:01:44,000 --> 00:01:47,000
+Mientras buscaba un laboratorio para sus investigaciones,
+
+27
+00:01:47,000 --> 00:01:51,000
+la joven Sklodowska de 27 años de edad conoció a Pierre Curie,
+
+28
+00:01:51,000 --> 00:01:53,000
+un físico ya conocido.
+
+29
+00:01:53,000 --> 00:01:54,000
+No tardaron en casarse.
+
+30
+00:01:54,000 --> 00:01:58,000
+Su unión, basada en puntos de vista e intereses comunes,
+
+31
+00:01:58,000 --> 00:02:01,000
+resultó ser fuerte y armoniosa.
+
+32
+00:02:02,000 --> 00:02:06,000
+Tres años después de la boda, nació su primera hija, Irene.
+
+33
+00:02:09,000 --> 00:02:13,000
+A finales del siglo XIX, tuvieron lugar importantes acontecimientos
+
+34
+00:02:13,000 --> 00:02:15,000
+en el campo de la física.
+
+35
+00:02:15,000 --> 00:02:18,000
+En el año 1895, el físico alemán Röntgen informó
+
+36
+00:02:18,000 --> 00:02:21,000
+de que había descubierto un nuevo tipo de rayos penetrantes,
+
+37
+00:02:21,000 --> 00:02:24,000
+posteriormente llamados rayos X.
+
+38
+00:02:24,000 --> 00:02:27,000
+Un año después, el francés Becquerel averiguó que
+
+39
+00:02:27,000 --> 00:02:31,000
+los minerales que contenían uranio emitían una potente radiación
+
+40
+00:02:31,000 --> 00:02:33,000
+de origen desconocido.
+
+41
+00:02:35,000 --> 00:02:38,000
+Eslodosca Curie empezó a estudiar ese fenómeno
+
+42
+00:02:38,000 --> 00:02:41,000
+que habría de llamar radioactividad.
+
+43
+00:02:41,000 --> 00:02:45,000
+Pierre se unió a sus experimentos dejando relegados
+
+44
+00:02:45,000 --> 00:02:48,000
+sus propios experimentos con cristales.
+
+45
+00:02:49,000 --> 00:02:53,000
+En el año 1898, el matrimonio Curie declaró que había descubierto
+
+46
+00:02:53,000 --> 00:02:56,000
+dos elementos muy radiactivos.
+
+47
+00:02:58,000 --> 00:03:01,000
+Utilizando el derecho que le daba el ser su descubridora,
+
+48
+00:03:01,000 --> 00:03:04,000
+María propuso que uno de ellos se llamase Polonio,
+
+49
+00:03:04,000 --> 00:03:06,000
+en honor a su Polonia natal,
+
+50
+00:03:06,000 --> 00:03:11,000
+y denominaron al otro elemento Radio.
+
+51
+00:03:12,000 --> 00:03:15,000
+Sin embargo, descubrir la existencia de nuevos elementos
+
+52
+00:03:15,000 --> 00:03:19,000
+no era suficiente, había que aislarlos.
+
+53
+00:03:20,000 --> 00:03:23,000
+Para realizar los experimentos, el matrimonio Curie
+
+54
+00:03:23,000 --> 00:03:26,000
+obtuvo permiso para utilizar un desvencijado cobertizo
+
+55
+00:03:26,000 --> 00:03:29,000
+utilizado en su día por los estudiantes de medicina.
+
+56
+00:03:30,000 --> 00:03:33,000
+Los experimentos para aislar los elementos radiactivos
+
+57
+00:03:33,000 --> 00:03:36,000
+se prolongaron durante cuatro años.
+
+58
+00:03:36,000 --> 00:03:39,000
+Es un trabajo agotador, escribió Marie Curie.
+
+59
+00:03:39,000 --> 00:03:41,000
+Tienes que transportar sacas de mineral,
+
+60
+00:03:41,000 --> 00:03:43,000
+verter soluciones de un recipiente a otro,
+
+61
+00:03:43,000 --> 00:03:47,000
+remover el líquido hirviendo en una vasija de hierro fundido durante horas.
+
+62
+00:03:48,000 --> 00:03:51,000
+El titánico esfuerzo se vio coronado por el éxito.
+
+63
+00:03:52,000 --> 00:03:55,000
+En el año 1902, los científicos obtuvieron
+
+64
+00:03:55,000 --> 00:03:58,000
+un decígramo de cloruro de radio puro.
+
+65
+00:03:58,000 --> 00:04:02,000
+El aspecto de ese polvillo blanco era similar al de la sal de mesa,
+
+66
+00:04:02,000 --> 00:04:05,000
+pero la luz que irradiaba era tan brillante
+
+67
+00:04:05,000 --> 00:04:10,000
+que se podía leer cerca de los tubos en los que se guardaba la sal de radio.
+
+68
+00:04:11,000 --> 00:04:14,000
+Impresionado por la extraordinaria labor de los físicos,
+
+69
+00:04:14,000 --> 00:04:17,000
+Vladimir Mayakovsky comparó posteriormente
+
+70
+00:04:17,000 --> 00:04:20,000
+el proceso de obtención del radio con la poesía.
+
+71
+00:04:20,000 --> 00:04:24,000
+Tienes que trabajar un año entero para obtener un gramo.
+
+72
+00:04:24,000 --> 00:04:26,000
+A pesar de su precariedad,
+
+73
+00:04:26,000 --> 00:04:29,000
+los científicos no patentaron sus descubrimientos.
+
+74
+00:04:29,000 --> 00:04:33,000
+Marie dijo, el radio no debe enriquecer a nadie,
+
+75
+00:04:33,000 --> 00:04:36,000
+este elemento pertenece al mundo.
+
+76
+00:04:37,000 --> 00:04:41,000
+Por sus trabajos sobre la radioactividad, Marie y Pierre Curie
+
+77
+00:04:41,000 --> 00:04:45,000
+fueron galardonados con el premio Nobel de Física en el año 1903.
+
+78
+00:04:47,000 --> 00:04:50,000
+Un año después nacía Eve, su segunda hija.
+
+79
+00:04:50,000 --> 00:04:53,000
+Y dos años más tarde, en 1903,
+
+80
+00:04:53,000 --> 00:04:57,000
+Pierre Curie moría arrollado por las ruedas de un pesado carro.
+
+81
+00:04:58,000 --> 00:05:02,000
+El duro golpe del destino no conseguiría desalentar a Marie.
+
+82
+00:05:02,000 --> 00:05:06,000
+Sucedió a su marido en la Cátedra de Física de la Sorbonne
+
+83
+00:05:06,000 --> 00:05:09,000
+contribuyendo a la creación del Instituto del Radio de París
+
+84
+00:05:09,000 --> 00:05:12,000
+y fue nombrada directora del Laboratorio de Radioactividad.
+
+85
+00:05:12,000 --> 00:05:16,000
+En el año 1911, Marie Curie recibió su segundo premio Nobel,
+
+86
+00:05:16,000 --> 00:05:18,000
+esta vez en química.
+
+87
+00:05:18,000 --> 00:05:20,000
+Durante su vida en la ciudad,
+
+88
+00:05:20,000 --> 00:05:24,000
+Marie Curie fue directora del Departamento de Radiología de la Cruz Roja
+
+89
+00:05:24,000 --> 00:05:26,000
+y trabajó en hospitales de campaña.
+
+90
+00:05:26,000 --> 00:05:31,000
+Aprendió a conducir y cuando era necesario, también hacía de mecánico.
+
+91
+00:05:32,000 --> 00:05:37,000
+En su juventud, había soportado estoicamente el frío que hacía en su buhardilla.
+
+92
+00:05:37,000 --> 00:05:40,000
+Después, realizó laboriosos experimentos en un cobertizo
+
+93
+00:05:40,000 --> 00:05:42,000
+que no era apropiado para laboratorio
+
+94
+00:05:42,000 --> 00:05:45,000
+y durante la Primera Guerra Mundial se hizo soldado
+
+95
+00:05:45,000 --> 00:05:47,000
+con la calma y decisión de la gente.
+
+96
+00:05:47,000 --> 00:05:53,000
+Marie Slodowska Curie murió a consecuencia de las radiaciones recibidas a los 66 años.
+
+97
+00:05:54,000 --> 00:05:59,000
+Los rayos radiactivos que investigó durante toda su vida consiguieron minar su salud,
+
+98
+00:05:59,000 --> 00:06:03,000
+provocándole una leucemia que habría de causarle la muerte.
+
+99
+00:06:04,000 --> 00:06:06,000
+Los alumnos más aventajados de Marie Curie
+
+100
+00:06:06,000 --> 00:06:09,000
+fueron su hija mayor Irene y Frederic Joliot Curie,
+
+101
+00:06:09,000 --> 00:06:12,000
+esposo de Irene, quien tenía un hijo de 10 años.
+
+102
+00:06:12,000 --> 00:06:16,000
+Fueron galardonados con el Premio Nobel en el año 1935
+
+103
+00:06:16,000 --> 00:06:42,000
+por el descubrimiento de la radiactividad artificial.
+

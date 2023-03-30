@@ -1,0 +1,584 @@
+1
+00:00:00,000 --> 00:00:07,000
+ABC Podcast, Materia Oscura, José Manuel Nieves.
+
+2
+00:00:22,000 --> 00:00:27,000
+Hace apenas unos días, el éxito del aterrizaje de la misión Artemis I
+
+3
+00:00:27,000 --> 00:00:31,000
+marcaba el comienzo de la reconquista de la Luna.
+
+4
+00:00:31,000 --> 00:00:33,000
+Me han llegado muchísimos comentarios diciendo
+
+5
+00:00:33,000 --> 00:00:36,000
+pero bueno, pero si ya fuimos a la Luna hace 50 años,
+
+6
+00:00:36,000 --> 00:00:40,000
+¿qué tiene esto de novedoso y de extraño?
+
+7
+00:00:40,000 --> 00:00:43,000
+Bueno, lo que se ha hecho, lo que se ha conseguido,
+
+8
+00:00:43,000 --> 00:00:48,000
+lo que ha conseguido Artemis I durante esos 25 días de viaje
+
+9
+00:00:48,000 --> 00:00:53,000
+durante los que ha ido a la Luna, ha orbitado alrededor de la Luna,
+
+10
+00:00:53,000 --> 00:00:57,000
+se ha alejado a más de 430.000 kilómetros de la Tierra,
+
+11
+00:00:57,000 --> 00:01:01,000
+que es la nave que más lejos ha llegado de la Tierra hasta ahora,
+
+12
+00:01:01,000 --> 00:01:04,000
+nave que está destinada a ser tripulada,
+
+13
+00:01:04,000 --> 00:01:07,000
+y ha ensayado toda una serie de maniobras,
+
+14
+00:01:07,000 --> 00:01:10,000
+entre ellas la más importante fue la del aterrizaje,
+
+15
+00:01:10,000 --> 00:01:13,000
+que era la primera vez que se ensayaba.
+
+16
+00:01:13,000 --> 00:01:18,000
+Y eso garantiza un aterrizaje seguro para todas las siguientes misiones
+
+17
+00:01:18,000 --> 00:01:22,000
+que esta vez sí irán con astronautas, irán tripuladas.
+
+18
+00:01:22,000 --> 00:01:25,000
+La primera la tendremos en 2024,
+
+19
+00:01:25,000 --> 00:01:29,000
+será una repetición, será la misión Artemis II,
+
+20
+00:01:29,000 --> 00:01:34,000
+que será una repetición de lo que hemos visto en esta misión de Artemis I,
+
+21
+00:01:34,000 --> 00:01:39,000
+pero con astronautas a bordo, es decir, no aterrizarán en la Luna.
+
+22
+00:01:39,000 --> 00:01:43,000
+Y un año después, en 2025, si todo marcha según lo previsto,
+
+23
+00:01:43,000 --> 00:01:47,000
+pues tendremos el primer aterrizaje con la misión Artemis III
+
+24
+00:01:47,000 --> 00:01:49,000
+de personas en la Luna.
+
+25
+00:01:49,000 --> 00:01:53,000
+Este día, el otro día cuando aterrizó Artemis I,
+
+26
+00:01:53,000 --> 00:01:55,000
+se cumplía así este ciclo.
+
+27
+00:01:55,000 --> 00:01:57,000
+Fue todo perfecto.
+
+28
+00:01:57,000 --> 00:02:00,000
+Es decir, toda la maniobra de aterrizaje,
+
+29
+00:02:00,000 --> 00:02:02,000
+todo el viaje en general,
+
+30
+00:02:02,000 --> 00:02:07,000
+se produjo exactamente de la manera que tenía la NASA previsto.
+
+31
+00:02:07,000 --> 00:02:12,000
+No sólo exactamente, sino que tenía un calendario de los días,
+
+32
+00:02:12,000 --> 00:02:16,000
+las horas y los minutos y los segundos en los que iba a suceder cada cosa,
+
+33
+00:02:16,000 --> 00:02:18,000
+entre ellas el aterrizaje,
+
+34
+00:02:18,000 --> 00:02:22,000
+y fue clavado, absolutamente clavado.
+
+35
+00:02:22,000 --> 00:02:25,000
+A las 10 y 39 y 40 segundos,
+
+36
+00:02:25,000 --> 00:02:29,000
+amerizaba en el Pacífico, en las costas del Pacífico,
+
+37
+00:02:29,000 --> 00:02:30,000
+frente a California,
+
+38
+00:02:30,000 --> 00:02:32,000
+amerizaba la cápsula Orion,
+
+39
+00:02:32,000 --> 00:02:35,000
+que es el módulo donde irán los astronautas.
+
+40
+00:02:35,000 --> 00:02:39,000
+Y os quiero contar hoy un poco cómo fue esa maniobra.
+
+41
+00:02:39,000 --> 00:02:43,000
+El viaje de regreso de Artemis empezó mucho antes.
+
+42
+00:02:43,000 --> 00:02:50,000
+Empezó, fijaros, el 1 de diciembre y no llegó a la Tierra hasta el pasado 11 de diciembre.
+
+43
+00:02:50,000 --> 00:02:54,000
+Pero el 1 de diciembre, cuando todavía estaba en la órbita de la Luna,
+
+44
+00:02:54,000 --> 00:02:58,000
+los ingenieros desde Tierra encendieron los motores de la Orion.
+
+45
+00:02:58,000 --> 00:03:04,000
+Y Artemis, oficialmente, ese fue el momento en el que emprendió su larguísimo regreso a casa.
+
+46
+00:03:04,000 --> 00:03:08,000
+Ese impulso la llevó muy lejos, más allá de la Luna.
+
+47
+00:03:08,000 --> 00:03:10,000
+Fue cuando se alejó de la Luna.
+
+48
+00:03:10,000 --> 00:03:17,000
+Y desde allí se comprobaron todos los sistemas que serán necesarios para las futuras misiones tripuladas.
+
+49
+00:03:17,000 --> 00:03:24,000
+Después de ese alejamiento, la nave volvió a acercarse a la Luna de nuevo para la maniobra final.
+
+50
+00:03:24,000 --> 00:03:30,000
+Y exactamente a las 17 horas 42 minutos, hora española, del 5 de diciembre,
+
+51
+00:03:30,000 --> 00:03:35,000
+la Orion se acercó, hizo como un razambullida hacia la superficie lunar
+
+52
+00:03:35,000 --> 00:03:39,000
+y se acercó solo a 127 kilómetros de la superficie de la Luna.
+
+53
+00:03:39,000 --> 00:03:43,000
+¿Para qué hizo eso? Pues para aprovechar una patada gravitatoria
+
+54
+00:03:43,000 --> 00:03:48,000
+que le diera más velocidad, más impulso, para volver a la Tierra.
+
+55
+00:03:48,000 --> 00:03:56,000
+Y en el momento preciso, un nuevo encendido de motores ya la colocó definitivamente en el camino de regreso a casa.
+
+56
+00:03:56,000 --> 00:04:00,000
+Y una semana después, como sabemos, esa compleja trayectoria de aterrizaje
+
+57
+00:04:00,000 --> 00:04:05,000
+se completó, como os he dicho, exactamente como estaba previsto.
+
+58
+00:04:05,000 --> 00:04:08,000
+Entradas de salto
+
+59
+00:04:09,000 --> 00:04:12,000
+Se trata de una maniobra jamás intentada.
+
+60
+00:04:12,000 --> 00:04:20,000
+La Orion no entró directamente como una bala, como hicieron todas las misiones, por ejemplo, lunares del programa Apolo,
+
+61
+00:04:20,000 --> 00:04:26,000
+que entraban a la atmósfera y vamos como balas, sino que rebotó en la atmósfera terrestre,
+
+62
+00:04:26,000 --> 00:04:30,000
+pues como una piedra que tiráramos a un lago y que empieza a rebotar.
+
+63
+00:04:30,000 --> 00:04:32,000
+Bueno, pues de una manera similar rebotó.
+
+64
+00:04:32,000 --> 00:04:36,000
+Entonces, ¿qué fue lo que hizo Artemis?
+
+65
+00:04:36,000 --> 00:04:40,000
+Pues tocó la atmósfera a unos 61 kilómetros de altitud.
+
+66
+00:04:40,000 --> 00:04:44,000
+Después se giró 180 grados, giró sobre sí misma la nave,
+
+67
+00:04:44,000 --> 00:04:47,000
+si hubiera habido astronautas hubieran estado boca abajo,
+
+68
+00:04:47,000 --> 00:04:53,000
+y eso cambió su centro de gravedad, hizo que saltara en este rebote de nuevo hacia arriba.
+
+69
+00:04:53,000 --> 00:04:58,000
+Y saltó más de 30 kilómetros hacia arriba, hasta los 99 kilómetros sobre el nivel del mar,
+
+70
+00:04:58,000 --> 00:05:01,000
+es decir, casi otra vez en el espacio.
+
+71
+00:05:01,000 --> 00:05:05,000
+Después de esta maniobra, la nave volvió a empezar a descender,
+
+72
+00:05:05,000 --> 00:05:12,000
+pero esta vez con el sistema de guiado apuntando directamente al punto elegido para el amerizaje.
+
+73
+00:05:12,000 --> 00:05:15,000
+Esta maniobra se llama entrada de salto.
+
+74
+00:05:15,000 --> 00:05:17,000
+¿Por qué se hizo esta cosa tan extraña?
+
+75
+00:05:17,000 --> 00:05:18,000
+Os podéis preguntar.
+
+76
+00:05:18,000 --> 00:05:22,000
+Bueno, pues fundamentalmente se consiguieron dos cosas.
+
+77
+00:05:22,000 --> 00:05:30,000
+Primero, que las fuerzas gravitatorias en el interior de la nave no fueran más altas de los 4G.
+
+78
+00:05:30,000 --> 00:05:33,000
+4G sería cuatro veces la gravedad que hay en la Tierra.
+
+79
+00:05:33,000 --> 00:05:39,000
+Los astronautas de las Apolo, como ejemplo, tuvieron que soportar casi 7G en las maniobras de entrada,
+
+80
+00:05:39,000 --> 00:05:42,000
+es decir, siete veces la gravedad terrestre.
+
+81
+00:05:42,000 --> 00:05:43,000
+Eso por un lado.
+
+82
+00:05:43,000 --> 00:05:49,000
+Y otra cosa, no menos importante, que el control de Tierra, gracias a esta maniobra,
+
+83
+00:05:49,000 --> 00:05:57,000
+pudo y podrá en el futuro elegir con precisión tanto el momento como el punto de amerizaje.
+
+84
+00:05:57,000 --> 00:06:00,000
+Y eso no había sido posible hasta ahora.
+
+85
+00:06:00,000 --> 00:06:03,000
+Os recuerdo, por ejemplo, la tripulación del Apolo 8,
+
+86
+00:06:03,000 --> 00:06:10,000
+que fue los primeros humanos que orbitaron a la Luna y fue en 1968.
+
+87
+00:06:10,000 --> 00:06:14,000
+Cuando amerizaron en el mar, fue en plena madrugada.
+
+88
+00:06:14,000 --> 00:06:17,000
+El control de misión hubiera preferido que fuera de día.
+
+89
+00:06:17,000 --> 00:06:21,000
+Y además, como no podían dirigir la nave porque caía como una bala,
+
+90
+00:06:21,000 --> 00:06:25,000
+fue a caer justamente en unas aguas infestadas de tiburones.
+
+91
+00:06:25,000 --> 00:06:31,000
+Había tantos tiburones que ni los buzos de rescate ni, por supuesto, los pocos astronautas,
+
+92
+00:06:31,000 --> 00:06:35,000
+se atrevieron a moverse hasta que amaneció casi dos horas después.
+
+93
+00:06:35,000 --> 00:06:40,000
+Es decir, después de la reentrada, los astronautas se tuvieron que quedar unas dos horas,
+
+94
+00:06:40,000 --> 00:06:43,000
+ahí quietos, esperando a que vinieran a rescatarles,
+
+95
+00:06:43,000 --> 00:06:47,000
+a que se hiciera de día para que los buzos de rescate pudieran ver qué es lo que había,
+
+96
+00:06:47,000 --> 00:06:49,000
+meterse en el agua y rescatarles.
+
+97
+00:06:49,000 --> 00:06:55,000
+Una cosa así no volverá a suceder gracias a esta nueva entrada de salto.
+
+98
+00:06:59,000 --> 00:07:03,000
+En el momento de entrar en la atmósfera, se probó otra de las cosas importantes,
+
+99
+00:07:03,000 --> 00:07:06,000
+que es el escudo, el escudo térmico.
+
+100
+00:07:06,000 --> 00:07:09,000
+Bueno, la nave empezó a caer, o sea, cuando entró en la atmósfera,
+
+101
+00:07:09,000 --> 00:07:14,000
+lo hizo, entró a una velocidad de más de 32.000 kilómetros por hora.
+
+102
+00:07:14,000 --> 00:07:18,000
+Y ahí fue donde se probó por primera vez un novedoso escudo térmico,
+
+103
+00:07:18,000 --> 00:07:23,000
+que tuvo que soportar casi 2.800 grados centígrados durante el descenso.
+
+104
+00:07:23,000 --> 00:07:29,000
+El diseño es totalmente nuevo y resulta que en la Tierra no hay instalaciones adecuadas
+
+105
+00:07:29,000 --> 00:07:32,000
+para poder probar este escudo.
+
+106
+00:07:32,000 --> 00:07:36,000
+La única forma de probarlo era un vuelo real, otra de las razones de Artemis.
+
+107
+00:07:36,000 --> 00:07:42,000
+De hecho, probar este escudo era uno de los objetivos principales de la misión Artemis I.
+
+108
+00:07:42,000 --> 00:07:49,000
+Se comportó exactamente como estaba previsto y el éxito de esta parte, de esta prueba,
+
+109
+00:07:49,000 --> 00:07:54,000
+pues también contribuye a despejar el futuro de las próximas misiones Artemis II y III,
+
+110
+00:07:54,000 --> 00:07:57,000
+que como os he dicho, eran tripuladas.
+
+111
+00:07:57,000 --> 00:08:01,000
+Entra la cápsula Orion a 32.000 kilómetros por hora.
+
+112
+00:08:01,000 --> 00:08:05,000
+Nada más entrar, la fricción del aire va frenando la nave.
+
+113
+00:08:05,000 --> 00:08:09,000
+Y unos minutos después de esta rapidísima entrada,
+
+114
+00:08:09,000 --> 00:08:13,000
+la velocidad ya se ha reducido a unos 500 kilómetros por hora.
+
+115
+00:08:13,000 --> 00:08:18,000
+Eso es justo lo que se necesita para el despliegue de dos grandes paracaídas de frenado,
+
+116
+00:08:18,000 --> 00:08:23,000
+que se abrieron exactamente a 7.600 metros de altitud.
+
+117
+00:08:23,000 --> 00:08:28,000
+Estos dos paracaídas, solamente en un minuto, redujeron la velocidad aún más,
+
+118
+00:08:28,000 --> 00:08:31,000
+hasta los 160 kilómetros por hora.
+
+119
+00:08:31,000 --> 00:08:35,000
+Y pocos después, cuando estaban a 2.000 metros sobre el nivel del mar,
+
+120
+00:08:35,000 --> 00:08:41,000
+estos dos grandes paracaídas se desprendieron y se abrieron los tres paracaídas principales.
+
+121
+00:08:41,000 --> 00:08:45,000
+Cada uno de ellos tiene 35 metros de diámetro.
+
+122
+00:08:45,000 --> 00:08:50,000
+Estos llevaron a Orion justamente hasta el punto de aterrizaje previsto
+
+123
+00:08:50,000 --> 00:08:55,000
+y a una velocidad inferior a la de 30 kilómetros por hora, es decir, se posó suavemente.
+
+124
+00:08:55,000 --> 00:09:00,000
+Estos paracaídas sí que habían sido probados, se había hecho todo tipo de pruebas con ellos.
+
+125
+00:09:00,000 --> 00:09:06,000
+Y finalmente, a las 18.40 horas españolas, la Orion amarizó suavemente
+
+126
+00:09:06,000 --> 00:09:08,000
+frente a las costas de la Baja California.
+
+127
+00:09:08,000 --> 00:09:14,000
+Regresó a salvo a la Tierra, demostró todas las pruebas que se han hecho han sido un éxito
+
+128
+00:09:14,000 --> 00:09:18,000
+y con este aterrizaje, las primeras declaraciones apuntaban a que
+
+129
+00:09:18,000 --> 00:09:23,000
+tanto la entrada de Orion como los análisis que se habían hecho en el espacio
+
+130
+00:09:23,000 --> 00:09:27,000
+habían superado todas las expectativas.
+
+131
+00:09:27,000 --> 00:09:32,000
+Una vez ya en el agua, había un buque de la marina que se llama el USS Portland
+
+132
+00:09:32,000 --> 00:09:33,000
+y recuperó la cápsula.
+
+133
+00:09:33,000 --> 00:09:38,000
+La tuvieron dos horas sin cogerla porque tenían primero que testear remotamente
+
+134
+00:09:38,000 --> 00:09:41,000
+con los instrumentos cómo se había comportado la temperatura, etc.
+
+135
+00:09:41,000 --> 00:09:43,000
+Pero después la cogieron.
+
+136
+00:09:43,000 --> 00:09:49,000
+La fecha elegida, que ha sido 50 años después, casualmente,
+
+137
+00:09:49,000 --> 00:09:54,000
+del aterrizaje del Apolo 17 en la Luna, que es la última vez que fueron humanos.
+
+138
+00:09:54,000 --> 00:09:58,000
+Y como os digo, a partir de ahora, el futuro está despejado.
+
+139
+00:09:58,000 --> 00:10:04,000
+Las próximas misiones Artemis en 2024 y sobre todo la de 2025,
+
+140
+00:10:04,000 --> 00:10:09,000
+ahí, aparte, como sabéis ya, irá la primera mujer que llegará a la Luna
+
+141
+00:10:09,000 --> 00:10:15,000
+y la primera persona no blanca, no de raza blanca, que llegará también a nuestro satélite.
+
+142
+00:10:15,000 --> 00:10:21,000
+A partir de ese momento, el camino para una presencia lunar prolongada, permanente
+
+143
+00:10:21,000 --> 00:10:23,000
+y a largo plazo, está garantizado.
+
+144
+00:10:23,000 --> 00:10:30,000
+Y eso será el trampolín para que los astronautas, en el futuro, puedan llegar hasta Marte.
+
+145
+00:10:54,000 --> 00:10:57,000
+SIN CINEMATOGRAFÍA
+
+146
+00:10:57,000 --> 00:11:24,000
+SIN CINEMATOGRAFÍA
+

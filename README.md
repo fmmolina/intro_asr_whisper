@@ -1,2 +1,2 @@
 # intro_asr_whisper
-Code for talk "Intro to ASR using Whisper"
+Source code and other resources used for the talk "Intro to ASR using Whisper"
